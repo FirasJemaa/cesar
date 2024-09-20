@@ -1,5 +1,6 @@
 '''
-Déchiffrer un message chiffré par un algorithme de César en essayant toutes les clés possibles et en validant le résultat en comparant les mots déchiffrés avec un dictionnaire.
+Déchiffrer un message chiffré par un algorithme de César en essayant toutes les clés possibles et en validant le résultat en comparant les mots
+déchiffrés avec un dictionnaire.
 '''
 
 # Fonction de chiffrement César
