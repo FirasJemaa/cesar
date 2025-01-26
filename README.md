@@ -14,7 +14,7 @@ Ce projet Python déchiffre un message chiffré avec l'algorithme de César en e
 1. Clonez le dépôt GitHub :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/cesar-dechiffrement.git
+   git clone https://github.com/FirasJemaa/cesar.git
    ```
 
 2. Accédez au dossier du projet :
