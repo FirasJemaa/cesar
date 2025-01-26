@@ -20,7 +20,7 @@ Ce projet Python déchiffre un message chiffré avec l'algorithme de César en e
 2. Accédez au dossier du projet :
 
    ```bash
-   cd cesar-dechiffrement
+   cd /<chemin_vers_le_répertoire>/cesar
    ```
 
 3. Assurez-vous d'avoir un fichier `mots.txt` dans le répertoire du projet, contenant une liste de mots valides (un mot par ligne).
